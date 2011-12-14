@@ -1,3 +1,7 @@
+About this fork:
+      This is a trunk copy from svn intended to survive Django testing w/ 1.3
+
+====
 Photologue
 
 Powerful image management for the Django web framework.
